@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Interactive Partners
-datePublished: '2016-03-30T20:54:57.519Z'
-dateModified: '2016-03-30T20:54:56.788Z'
-title: ''
+datePublished: '2016-03-30T21:14:06.928Z'
+dateModified: '2016-03-30T21:14:03.584Z'
+title: Our Team
 author: []
 authors: []
 publisher:
@@ -36,4 +36,12 @@ Online payment systems are a snap and the management tools for easy reconciliati
 
 Our expertise encompasses all aspects of software and application development including web design, web coding, custom applications, SEO/SEM and even email marketing. 
 
-We are experts in our field and welcome the opportunity to show off our depth of knowledge. We are regularly called on to present to teams and companies on the best way to use technology to meet business goals and/or blend different business applications.
+We are experts in our field and welcome the opportunity to show off our depth of knowledge. We are regularly called on to present to teams and companies on the best way to use technology to meet business goals and/or blend different business applications. 
+
+# Our Team
+
+The team of experts we bring to your project comes with many years of experience in the interactive space. Designers, system architects, developers, test and documentation teams all working through a solid set of standards and checklist processes to ensure the best possible results.
+
+Our skills give life to your business ideas. We can take any existing business process and turn it into an impressive online experience. We can turn client interactions into automated processes to cover areas such as lead nurturing, financial information, workflow status or any other internal process you would like pushed out to the web. This can be as public or secured information with centralised security controlled by you.
+
+Our fast start approach coupled with modern agile scrum development methodologies allows us to regularly exceed our clients' expectations. Thanks to a well structured method, strong tools and long experience, we have developed an ability to deliver solutions in very limited time frames when required.
