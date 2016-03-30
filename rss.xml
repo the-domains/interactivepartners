@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[InteractivePartners]]></title>
-        <description><![CDATA[InteractivePartners]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Interactive Partners  - Web and Application Developers]]></title>
+        <description><![CDATA[Interactive Partners  - Web and Application Developers]]></description>
+        <link>https://thegrid.ai/interactivepartners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 20:52:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 20:54:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/interactivepartners/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e431d27-0851-4391-882c-35dcb7c0f33b.png">]]></description>
-            <link>undefinedinteractive-partners/index.html</link>
+            <link>https://thegrid.ai/interactivepartners/interactive-partners/index.html</link>
             <guid isPermaLink="false">31a5df17-e772-47e1-a034-bb717db06dab</guid>
-            <pubDate>Wed, 30 Mar 2016 20:52:57 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 20:54:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
