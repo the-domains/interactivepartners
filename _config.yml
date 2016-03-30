@@ -1,0 +1,28 @@
+name: InteractivePartners
+favicon: null
+layout_spectrum: 0.3370605637319386
+typography_spectrum: 0.171029087388888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5924978645052761
+  lightness: 0.5249322468880564
+  saturation: 0.42738135741092265
+  rhythmicContrast: 0.5924131928477436
+purpose: []
